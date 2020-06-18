@@ -1,13 +1,8 @@
 [
     {
         "remote": "github",
-        "repository": "platform_hardware_samsung",
-        "target_path": "hardware/samsung",
-        "revision": "q"
-    },
-    {
-        "remote": "github",
         "repository": "BlissRoms-Devices/android_kernel_samsung_universal8895",
-        "target_path": "kernel/samsung/universal8895"
+        "target_path": "kernel/samsung/universal8895",
+        "revision": "q"
     }
 ]
