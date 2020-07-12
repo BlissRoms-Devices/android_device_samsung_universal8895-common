@@ -10,5 +10,11 @@
         "repository": "BlissRoms-Devices/proprietary_vendor_samsung_universal8895-common",
         "target_path": "vendor/samsung/universal8895-common",
         "revision": "q"
+    },
+    {
+        "remote": "github",
+        "repository": "BlissRoms/platform_hardware_samsung",
+        "target_path": "hardware/samsung",
+        "revision": "q"
     }
 ]
